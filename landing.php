@@ -90,6 +90,7 @@
 
             <h2>Certifikace ::</h2>
             <ul>
+                <li>AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop</li>
                 <li>Azure Solution Architect Expert</li>
                 <li>AZ-305 Designing Microsoft Azure Infrastructure Solutions</li>
                 <li>AZ-500 Azure Security Engineer</li>
